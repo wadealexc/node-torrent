@@ -9,7 +9,7 @@ Current progress:
 - [x] Request peers from tracker
 - [x] Establish TCP connection with peers
 - [x] Perform handshake with peers
-- [ ] Receive bitfield from peers
+- [x] Receive bitfield from peers
 - [ ] Request pieces from peers
 - [ ] Download from peers
 - [ ] Write to file
