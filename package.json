@@ -1,0 +1,17 @@
+{
+  "name": "torrent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Wade",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1",
+    "bitfield": "^3.0.0",
+    "sha1": "^1.1.1",
+    "uniq": "^1.0.1"
+  }
+}
