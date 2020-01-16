@@ -38,5 +38,5 @@ let downloadManager = new DownloadManager(result.info, PEER_ID, infoHash);
 
 tracker.on('ready', (peers) => {
     console.log('Received ' + peers.length + ' peers from tracker.');
-    downloadManager.start(peers);
+    downloadManager.startDownload(peers);
 });

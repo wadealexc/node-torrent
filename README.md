@@ -10,6 +10,6 @@ Current progress:
 - [x] Establish TCP connection with peers
 - [x] Perform handshake with peers
 - [x] Receive bitfield from peers
-- [ ] Request pieces from peers
+- [x] Request pieces from peers
 - [ ] Download from peers
 - [ ] Write to file
