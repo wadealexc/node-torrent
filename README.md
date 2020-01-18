@@ -11,5 +11,6 @@ Current progress:
 - [x] Perform handshake with peers
 - [x] Receive bitfield from peers
 - [x] Request pieces from peers
-- [ ] Download from peers
-- [ ] Write to file
+- [x] Download from peers
+- [x] Write to file
+- [x] Add CLI and output
