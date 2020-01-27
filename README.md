@@ -17,7 +17,7 @@ By default, downloads a torrent of Debian 10.2.0. Use `-t` to specify an alterna
 
 `DEBUG=* node index.js`
 
-Current progress:
+### Current progress:
 - [x] Decode bencoded torrent file
 - [x] Calculate file infohash
 - [x] Request peers from tracker
@@ -32,8 +32,11 @@ Current progress:
 ## How to explore this codebase:
 
 For an intro into the BitTorrent protocol: https://blog.jse.li/posts/torrent/
+
 The original spec: https://www.bittorrent.org/beps/bep_0003.html
+
 Helpful alternate implementation in Node: https://github.com/webtorrent/webtorrent
+
 
 Hopefully code comments can help with the rest!
 
